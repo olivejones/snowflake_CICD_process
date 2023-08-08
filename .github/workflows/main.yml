@@ -1,0 +1,7 @@
+name: showcase_cicd_snowflake
+# controls when the action will run
+on:
+  push:
+    branches:
+    -main
+    
